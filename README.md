@@ -1,9 +1,9 @@
-### Hi there (from France 🇫🇷)
+# Hey there! 👋 From France 🇫🇷
 
-#### About me
+## A bit about me
 
-💎 I'm a Ruby developer since 2007 and recently a Crystal developer.
+💎 I've been building stuff with Ruby since 2007 — still loving it.
 
-CTO of [PIPPLET](https://www.pipplet.com/) Easy, fast, and reliable: Pipplet assesses oral and written skills of your potential recruits, employees, and learners, in 40 languages. 100 % human assessment, online and without appointment.
+🚀 I run ATNOS, where we help people turn their ideas into real online businesses.
 
-CEO of [ATNOS](https://atnos.com) We are working to help anyone who wants to create a business on the internet.
+🤝 You can also find me at the ToulouseRB Meetup — come say hi if you're around!
